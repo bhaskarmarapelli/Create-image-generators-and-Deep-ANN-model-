@@ -1,5 +1,10 @@
 Aim: Create image generators and Deep ANN model 
 Project structure
+
+Poject
+  |_ Preprocess.py  
+  |_ Classifcation_model.py
+  |_ Main_method.py
  
 Preprocess.py
 class Dataprocess contains various methods for data processing, exploration, and preparation for a machine learning model, particularly for binary classification of diabetic retinopathy images.
